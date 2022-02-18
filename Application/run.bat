@@ -1,0 +1,1 @@
+start C:\Users\sglazkov\Documents\pythonProject\pdf_parser\bin\Debug\net48\createscript.exe "\\ru200vm0013\24-Engineering\temporary\3-TMP-005 DP31 rev 02 NEW\079322C-AWP1A-300-CS-KMD-06315-D-0510_02.pdf"
